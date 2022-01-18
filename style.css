@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+}
+
+.offset{
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+a{
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 36px 0;
+}
+
+.nav_link{
+    font-size: 16px;
+    line-height: 16px;
+    color: #000;
+    margin: 0 40px;
+}
+
+.btn{
+    background: #2D635E;
+    box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 7px;
+    color: white;
+    padding: 12px 28px;
+
+}
+
+.hero_content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero_right{
+    display: flex;
+    align-items: flex-end;
+}
+
+.social a{
+    display: block;
+}
+
+
+p{
+font-family: 'Cedarville Cursive', sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 20px;
+}
+
+.cup{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    
+}
+
+
+.cup2{
+    width: 600px;
+    padding-left: 165px;
+}
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 35px;
+}
+
+
+.cup3{
+    margin-top: 10px;
+}
+
+
+b{
+    display: flex;
+
+}
+
+
+.glass{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    
+}
+
+
+.glass2{
+    width: 600px;
+    padding-right: 165px;
+}
+
+.cup3{
+    margin-top: 10px;
+}
+
+
+
+
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 35px;
+display: flex;
+
+
+}
+
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block1{
+    width: 200px;
+    padding: 50px ;
+    padding-left: 180px;
+}
+
+
+.end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    
+}
+
+.final{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+.end2{
+    padding-left: 300px ;
+}
